@@ -1,4 +1,4 @@
-khgkjhg
+khgkjhg//Hi matti
 public class DNAmatching {
         public static void main(String args[]){
     Scanner sc=new Scanner(System.in);
